@@ -1,0 +1,12 @@
+starBucks_cra
+
+git init
+
+git config user.name "beautifulkim"
+git config user.email "ga2d2000@nate.com"
+
+git remote add origin https://github.com/beautifulkim/starBucks_cra.git
+
+git add .
+git commit -m "스타벅스 CREATE-REACT-APP"
+git push origin master
